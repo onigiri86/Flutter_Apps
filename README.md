@@ -1,6 +1,6 @@
-# banana_app
+# namer_app
 
-A new Flutter project.
+A new Flutter project.（Google Tutorial)
 
 ## Getting Started
 
