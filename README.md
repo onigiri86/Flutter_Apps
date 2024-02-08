@@ -2,6 +2,9 @@
 
 A new Flutter project.（Google Tutorial)
 
+## image
+<img width="593" alt="namer_app_image" src="https://github.com/onigiri86/Flutter_Apps/assets/117103737/a4870606-3c54-48a1-9983-cff4e3284632">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
